@@ -16,12 +16,12 @@ Use it at your own risk!
 // EDIT BELOW
 /* ============================================================================= */
 
-$stationName	= "ManeFrameRadio";		//Your Station name
+$stationName	= "XXX";		//Your Station name
 
-$mysql_server	= "87.98.161.5:3306";						// MySQL Server's IP (and port if not default). Ex: (191.268.1.2 or 191.268.1.2:345).
-$mysql_database	= "radiodj161";	    				// MySQL database name
-$mysql_user		= "radiodj";						// MySQL database username. Usually root.
-$mysql_pass		= "Password1";						// MySQL database password.
+$mysql_server	= "XXX";						// MySQL Server's IP (and port if not default). Ex: (191.268.1.2 or 191.268.1.2:345).
+$mysql_database	= "XXX";	    				// MySQL database name
+$mysql_user		= "XXX";						// MySQL database username. Usually root.
+$mysql_pass		= "XXX";						// MySQL database password.
 
 $track_repeat	= 120;						// Don't display the track if it was played in the last X minutes.
 $artist_repeat	= 120;						// Don't display the track if the artist was played in the last X minutes.
